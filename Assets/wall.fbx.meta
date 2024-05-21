@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 7676035d387f64ef3a7b76f9aa35866d
+timeCreated: 1598798552
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aircon
+    100004: aircon1
+    100006: aircon2
+    100008: aircon3
+    100010: aircon4
+    100012: aircon_gp
+    100014: backloney_pole
+    100016: bath_door_geo
+    100018: bath_part_geo
+    100020: bed
+    100022: bed1
+    100024: chair_01
+    100026: faucet_02
+    100028: hotPlates_02
+    100030: kitchen_02
+    100032: oven_02
+    100034: plug_02
+    100036: port_frigo
+    100038: Sofa_1
+    100040: toilet_geo
+    100042: wall
+    100044: washroom_table_geo
+    400000: //RootNode
+    400002: aircon
+    400004: aircon1
+    400006: aircon2
+    400008: aircon3
+    400010: aircon4
+    400012: aircon_gp
+    400014: backloney_pole
+    400016: bath_door_geo
+    400018: bath_part_geo
+    400020: bed
+    400022: bed1
+    400024: chair_01
+    400026: faucet_02
+    400028: hotPlates_02
+    400030: kitchen_02
+    400032: oven_02
+    400034: plug_02
+    400036: port_frigo
+    400038: Sofa_1
+    400040: toilet_geo
+    400042: wall
+    400044: washroom_table_geo
+    2100000: lambert1
+    2100002: 'Material #203'
+    2100004: sofa
+    2100006: chair_01_leather
+    2100008: chair_01_metal
+    2100010: kitchenBase_base
+    2100012: kitchenBase_red
+    2100014: kitchenBase_sink
+    2100016: hotPlates_hotPlates
+    2100018: hotPlates_black
+    2100020: oven_door
+    2100022: oven_top
+    2100024: oven_black
+    2100026: fridge_01_inox
+    2100028: fridge_01_black
+    2100030: fridge_01_schedule
+    2100032: fridge_01_condenser
+    2100034: fridge_01_grey
+    2100036: fridge_01_card_01
+    2100038: fridge_01_card_02
+    2100040: fridge_01_draw_01
+    2100042: fridge_01_draw_02
+    2100044: fridge_01_card_03
+    2100046: lambert3
+    2100048: wood 1d
+    2100050: Aircon
+    2100052: toilet
+    2100054: door_glass
+    2100056: door_m
+    2100058: wall_m
+    2100060: cabin_m
+    2100062: win_frame_m
+    2100064: window_m
+    2100066: curtain_M
+    2100068: floor_m
+    2300000: //RootNode
+    2300002: aircon
+    2300004: aircon1
+    2300006: aircon2
+    2300008: aircon3
+    2300010: aircon4
+    2300012: backloney_pole
+    2300014: bath_door_geo
+    2300016: bath_part_geo
+    2300018: bed
+    2300020: bed1
+    2300022: chair_01
+    2300024: faucet_02
+    2300026: hotPlates_02
+    2300028: kitchen_02
+    2300030: oven_02
+    2300032: plug_02
+    2300034: port_frigo
+    2300036: Sofa_1
+    2300038: toilet_geo
+    2300040: wall
+    2300042: washroom_table_geo
+    3300000: //RootNode
+    3300002: aircon
+    3300004: aircon1
+    3300006: aircon2
+    3300008: aircon3
+    3300010: aircon4
+    3300012: backloney_pole
+    3300014: bath_door_geo
+    3300016: bath_part_geo
+    3300018: bed
+    3300020: bed1
+    3300022: chair_01
+    3300024: faucet_02
+    3300026: hotPlates_02
+    3300028: kitchen_02
+    3300030: oven_02
+    3300032: plug_02
+    3300034: port_frigo
+    3300036: Sofa_1
+    3300038: toilet_geo
+    3300040: wall
+    3300042: washroom_table_geo
+    4300000: wall3
+    4300002: bed
+    4300004: bed1
+    4300006: Sofa_1
+    4300008: chair_01
+    4300010: kitchen_02
+    4300012: hotPlates_02
+    4300014: faucet_02
+    4300016: oven_02
+    4300018: plug_02
+    4300020: port_frigo
+    4300022: backloney_pole
+    4300024: aircon
+    4300026: aircon1
+    4300028: aircon2
+    4300030: aircon3
+    4300032: aircon4
+    4300034: toilet_geo
+    4300036: washroom_table_geo
+    4300038: bath_part_geo
+    4300040: bath_door_geo
+    4300042: wall
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
